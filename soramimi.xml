@@ -13,11 +13,11 @@
   <style name="ParenthesesMismatch" background="#800080"/>
   <style name="AutoComplete" foreground="#000080" background="#0000ff"/>
   <style name="CurrentLine" background="#0000c0"/>
-  <style name="CurrentLineNumber" foreground="#ffff00" background="#606060"/>
+  <style name="CurrentLineNumber" foreground="#ffff00" background="#505050"/>
   <style name="Occurrences" background="#80c0ff"/>
   <style name="Occurrences.Unused" underlineColor="#808000" underlineStyle="SingleUnderline"/>
   <style name="Occurrences.Rename" foreground="#ffaaaa" background="#553636"/>
-  <style name="Number"/>
+  <style name="Number" foreground="#00ffff"/>
   <style name="String" foreground="#ffff00"/>
   <style name="Type" foreground="#ad85e8"/>
   <style name="Namespace" foreground="#ad85e8"/>
