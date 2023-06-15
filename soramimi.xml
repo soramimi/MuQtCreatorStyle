@@ -17,7 +17,7 @@
   <style name="Occurrences" background="#80c0ff"/>
   <style name="Occurrences.Unused" underlineColor="#808000" underlineStyle="SingleUnderline"/>
   <style name="Occurrences.Rename" foreground="#ffaaaa" background="#553636"/>
-  <style name="Number" foreground="#00ffff"/>
+  <style name="Number" foreground="#80ff80"/>
   <style name="String" foreground="#ffff00"/>
   <style name="Type" foreground="#ad85e8"/>
   <style name="Namespace" foreground="#ad85e8"/>
